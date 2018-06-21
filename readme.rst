@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+What is CodeIgniter Rendhy
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
